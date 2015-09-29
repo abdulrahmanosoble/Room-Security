@@ -3,9 +3,8 @@ This a side project developed using arduino. Whenever someone enters my room it 
 
 Here is a demo of the project: https://youtu.be/O05RoPHRfyo
 
-Below is a photo the set up. The reed switch is taped under the door and cannot be seen:
-
-Below is a schematic that does not include the Adafruit CC3000 breakout board or the battery pack.
+Below is a schematic that does not include the Adafruit CC3000 breakout board or the battery pack:
+![Schematic](https://github.com/abdulrahmanosoble/Room-Security/blob/master/images/schematic.png)
 
 The CC3000 is connected to the following pins:
 
@@ -19,6 +18,9 @@ Digital 13 | CLOCK
 Digital 12 | MISO
 Digital 11 | MOSI
 Digital 10 | CS
+
+Below is a photo the set up. The reed switch is taped under the door and cannot be seen:
+![Photo](https://github.com/abdulrahmanosoble/Room-Security/blob/master/images/photo.jpg)
 
 #How it works
 
